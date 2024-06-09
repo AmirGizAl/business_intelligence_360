@@ -1,14 +1,10 @@
 <template>
   <section class="contact">
     <div class="container">
-      <h2 class="section-title">Контакты</h2>
+      <h2 class="section-title">Сотрудничество</h2>
       <div class="content">
-        <p>Общество с ограниченной ответственностью
-          «Казан Техно» (ООО «Казан Техно»)</p>
-        <p>Адрес: 420015, Республика Татарстан,
-          г. Казань, ул. Жуковского, зд. 30, пом. 26</p>
         <p>Телефон: <a href="tel:+7(965)580-37-65">+7(965)580-37-65</a></p>
-        <p>Email: <a href="mailto:kazan.techno@mail.ru">kazan.techno@mail.ru</a></p>
+        <p>Email: <a href="mailto:amirxan.gizatullin@bk.ru">kazan.techno@mail.ru</a></p>
       </div>
     </div>
   </section>
@@ -24,7 +20,7 @@ export default {
 .contact {
   width: 100%;
   padding: 80px 0;
-  background: linear-gradient(-1000grad, #de5060, #8cb5ed);
+  background: linear-gradient(-1000grad, #f43446, #8cb5ed);
 }
 
 .container {

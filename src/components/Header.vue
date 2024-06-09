@@ -3,8 +3,8 @@
     <div class="container">
       <img ref="logo" src="../assets/logo.png" alt="Kazan Techno" class="logo" @mouseover="increaseLogo" @mouseleave="resetLogo">
       <h1 class="slogan">
-        <p class="first-slogan">Инновации, качество, прогресс</p>
-        <p class="second-slogan">Мы воплощаем вашу идею в программное решение!</p>
+        <p class="first-slogan">Бизнес Интеллект 360</p>
+        <p class="second-slogan">Умное развитие Вашего бизнеса</p>
       </h1>
     </div>
   </header>
@@ -31,8 +31,8 @@ export default {
 <style scoped>
 .header {
   width: 100%;
-  padding: 20px 0;
-  background: linear-gradient(135deg, #f1f8fe, #f1f8fe);
+  padding: 10px 0;
+  background: linear-gradient(135deg, #111e27, #111e27);
 }
 
 .container {
@@ -44,25 +44,26 @@ export default {
 }
 
 .logo {
-  width: 250px;
+  width: 200px;
   transition: transform 0.3s ease-in-out;
 }
 
 .slogan {
-  color: #3C4D54;
+  color: #c3dbfa;
   opacity: 0.9;
   transition: opacity 0.3s ease-in-out;
-  margin: 0 20px;
+  margin: 0 200px;
 }
 
 .first-slogan {
   font-size: 45px;
-  font-weight: 700;
+  font-weight: 1000;
 }
 
 .second-slogan {
-  font-size: 28px;
-  margin-left: 5px;
+  font-size: 30px;
+  margin-left: 15px;
+  font-weight: 700;
 }
 
 .slogan:hover {

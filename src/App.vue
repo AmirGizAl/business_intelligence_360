@@ -7,7 +7,7 @@
   </div>
   <footer class="footer">
     <div class="container">
-      <p>&copy; 2024 ООО "Казан Техно".</p>
+      <p>&copy; 2024 "Бизнес Интеллект 360", г. Казань.</p>
     </div>
   </footer>
 </template>

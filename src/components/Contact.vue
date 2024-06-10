@@ -4,7 +4,7 @@
       <h2 class="section-title">Сотрудничество</h2>
       <div class="content">
         <p>Телефон: <a href="tel:+7(965)580-37-65">+7(965)580-37-65</a></p>
-        <p>Email: <a href="mailto:amirxan.gizatullin@bk.ru">kazan.techno@mail.ru</a></p>
+        <p>Email: <a href="mailto:amirxan.gizatullin@bk.ru">amirxan.gizatullin@bk.ru</a></p>
       </div>
     </div>
   </section>
